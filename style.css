@@ -29,6 +29,10 @@
   --fw-bold: 700;
 }
 
+/**************/
+/* CSS RESET */
+/************/
+
 /*
   1. Use a more-intuitive box-sizing model.
 */
@@ -96,7 +100,10 @@ h6 {
   isolation: isolate;
 }
 
+/**************/
 /* Utilities */
+/************/
+
 .flex-column {
   display: flex;
   flex-direction: column;
@@ -119,7 +126,10 @@ h6 {
 span {
   font-weight: var(--fw-bold);
 }
+
+/********************/
 /* General Styling */
+/******************/
 
 .wrapper {
   padding: 0 2rem 2rem 2rem;
