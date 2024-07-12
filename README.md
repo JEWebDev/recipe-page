@@ -63,7 +63,6 @@ I still have a lot to learn but it was a fun and rewarding design to build. im h
 
 ## Author
 
-- Website - [Juan Esparza](https://www.your-site.com)
 - Frontend Mentor - [JEWebDev](https://www.frontendmentor.io/profile/JEWebDev)
 
 ## Acknowledgments
